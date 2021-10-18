@@ -5,7 +5,7 @@ DOI: [https://doi.org/10.1007/s41095-019-0149-9](https://doi.org/10.1007/s41095-
 
 arxiv: [https://arxiv.org/abs/1411.5878](https://arxiv.org/abs/1411.5878)
 
-Report file: [Salient object detection: A survey](https://github.com/m-shahpouri/salient-object-detection/blob/master/report%20Salient%20object%20detection:%20A%20survey.pdf)
+Report file: [Salient object detection: A survey](https://github.com/m-shahpouri/salient-object-detection/blob/master/presentation%20salient%20object%20detection.pdf)
 
 Presentation file: [Salient object detection: A survey](https://github.com/m-shahpouri/salient-object-detection/blob/master/presentation%20salient%20object%20detection%20.pdf)
 
