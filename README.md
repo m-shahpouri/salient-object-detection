@@ -14,3 +14,9 @@ report from **Single-Pixel Salient Object Detection via Discrete Cosine Spectrum
 DOI: [https://doi.org/10.1109/LPT.2020.3026472](https://doi.org/10.1109/LPT.2020.3026472)
 
 Report file: [Single-Pixel Salient Object Detection via Discrete Cosine Spectrum Acquisition and Deep Learning](https://github.com/m-shahpouri/salient-object-detection/blob/master/report%20Single-Pixel%20Salient%20Object%20Detection%20via%20Discrete%20Cosine%20Spectrum%20Acquisition%20and%20Deep%20Learning.pdf)
+
+report from **Contrast-based image attention analysis by using fuzzy growing**
+
+DOI: [https://doi.org/10.1145/957013.957094](https://doi.org/10.1145/957013.957094)
+
+Report file: [Contrast-based image attention analysis by using fuzzy growing](https://github.com/m-shahpouri/salient-object-detection/blob/master/report_Contrast_based_Image_Attention_Analysis_by_Using_Fuzzy_Growing.pdf)
