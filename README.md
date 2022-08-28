@@ -1,4 +1,4 @@
-# salient-object-detection
+# Salient Object Detection
 report of **Salient object detection: A survey**
 
 DOI: [https://doi.org/10.1007/s41095-019-0149-9](https://doi.org/10.1007/s41095-019-0149-9)
