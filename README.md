@@ -20,3 +20,9 @@ report of **Contrast-based image attention analysis by using fuzzy growing**
 DOI: [https://doi.org/10.1145/957013.957094](https://doi.org/10.1145/957013.957094)
 
 Report file: [Contrast-based image attention analysis by using fuzzy growing](https://github.com/m-shahpouri/salient-object-detection/blob/master/report_Contrast_based_Image_Attention_Analysis_by_Using_Fuzzy_Growing.pdf)
+
+report of **Object of Interest Detection by Saliency Learning**
+
+DOI: [https://doi.org/10.1007/978-3-642-15552-9_46](https://doi.org/10.1007/978-3-642-15552-9_46)
+
+Report file: [Object of Interest Detection by Saliency Learning](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
