@@ -26,3 +26,12 @@ report of **Object of Interest Detection by Saliency Learning**
 DOI: [https://doi.org/10.1007/978-3-642-15552-9_46](https://doi.org/10.1007/978-3-642-15552-9_46)
 
 Report file: [Object of Interest Detection by Saliency Learning](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
+
+report of **Learning to Detect A Salient Object**
+
+DOI: [https://doi.org/10.1007/978-3-642-15552-9_46](https://doi.org/10.1007/978-3-642-15552-9_46)
+
+Report file: [Learning to Detect A Salient Object](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
+
+
+
