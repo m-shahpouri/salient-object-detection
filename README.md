@@ -25,17 +25,17 @@ report of **Object of Interest Detection by Saliency Learning**
 
 DOI: [https://doi.org/10.1007/978-3-642-15552-9_46](https://doi.org/10.1007/978-3-642-15552-9_46)
 
-Report file: [Object of Interest Detection by Saliency Learning](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
+Report file: [Object of Interest Detection by Saliency Learning](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Object%20of%20Interest%20Detection%20by%20Saliency%20Learning%20report.pdf)
 
 report of **Learning to Detect A Salient Object**
 
 DOI: [https://doi.org/10.1007/978-3-642-15552-9_46](https://doi.org/10.1007/978-3-642-15552-9_46)
 
-Report file: [Learning to Detect A Salient Object](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
+Report file: [Learning to Detect A Salient Object](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Learning%20to%20Detect%20A%20Salient%20Object%20report.pdf)
 
 report of **Saliency Segmentation based on Learning and Graph Cut Refinement**
 
 DOI: [doi:10.5244/C.24.110](http://www.bmva.org/bmvc/2010/conference/paper110/index.html)
 
-Report file: [Saliency Segmentation based on Learning and Graph Cut Refinement](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
+Report file: [Saliency Segmentation based on Learning and Graph Cut Refinement](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Saliency%20segmentation%20based%20on%20learning%20and%20graph%20cut%20refinement%20report.pdf)
 
