@@ -33,5 +33,9 @@ DOI: [https://doi.org/10.1007/978-3-642-15552-9_46](https://doi.org/10.1007/978-
 
 Report file: [Learning to Detect A Salient Object](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
 
+report of **Saliency Segmentation based on Learning and Graph Cut Refinement**
 
+DOI: [doi:10.5244/C.24.110](http://www.bmva.org/bmvc/2010/conference/paper110/index.html)
+
+Report file: [Saliency Segmentation based on Learning and Graph Cut Refinement](https://github.com/m-shahpouri/salient-object-detection/blob/master/Report_of_Object_of_Interest_Detection_by_Saliency_Learning.pdf)
 
