@@ -39,3 +39,13 @@ DOI: [doi:10.5244/C.24.110](http://www.bmva.org/bmvc/2010/conference/paper110/in
 
 Report file: [Saliency Segmentation based on Learning and Graph Cut Refinement](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Saliency%20segmentation%20based%20on%20learning%20and%20graph%20cut%20refinement%20report.pdf)
 
+
+report of **Salient Object Detection: A Discriminative Regional Feature Integration Approach**
+
+DOI: [doi.org/10.1109/CVPR.2013.271](https://doi.org/10.1109/CVPR.2013.271)
+
+Report file: [Salient Object Detection: A Discriminative Regional Feature Integration Approach](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Saliency%20segmentation%20based%20on%20learning%20and%20graph%20cut%20refinement%20report.pdf)
+
+
+
+
