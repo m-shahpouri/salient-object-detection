@@ -44,7 +44,7 @@ report of **Salient Object Detection: A Discriminative Regional Feature Integrat
 
 DOI: [doi.org/10.1109/CVPR.2013.271](https://doi.org/10.1109/CVPR.2013.271)
 
-Report file: [Salient Object Detection: A Discriminative Regional Feature Integration Approach](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Saliency%20segmentation%20based%20on%20learning%20and%20graph%20cut%20refinement%20report.pdf)
+Report file: [Salient Object Detection: A Discriminative Regional Feature Integration Approach](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Object%20Detection%20A%20Discriminative%20Regional%20Feature%20Integration%20Approach%20report.pdf)
 
 
 
