@@ -51,16 +51,17 @@ report of **A framework for visual saliency detection with applications to image
 
 DOI: [https://doi.org/10.1109/ICCV.2009.5459467](https://doi.org/10.1109/ICCV.2009.5459467)
 
-Report file: [A framework for visual saliency detection with applications to image thumbnailing](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/A_framework_for_visual_saliency_detection_with_applications_to_image_thumbnailing_report.pdf)
+Report file: [A framework for visual saliency detection with applications to image thumbnailing](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/A%20framework%20for%20visual%20saliency%20detection%20with%20applications%20to%20image%20thumbnailing%20report.pdf)
 
 report of **Image saliency: From intrinsic to extrinsic context**
 
 DOI: [https://doi.org/10.1109/CVPR.2011.5995743](https://doi.org/10.1109/CVPR.2011.5995743)
 
-Report file: [Image saliency: From intrinsic to extrinsic context](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Image_Saliency__From_Intrinsic_to_Extrinsic_Context_report.pdf)
+Report file: [Image saliency: From intrinsic to extrinsic context](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Image%20Saliency%20From%20Intrinsic%20to%20Extrinsic%20Context%20report.pdf)
 
 report of **Salient Region Detection via High-Dimensional Color Transform**
 
 DOI: [https://doi.org/10.1109/CVPR.2014.118](https://doi.org/10.1109/CVPR.2014.118)
 
-Report file: [Salient Region Detection via High-Dimensional Color Transform](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Image_Saliency__From_Intrinsic_to_Extrinsic_Context_report.pdf)
+Report file: [Salient Region Detection via High-Dimensional Color Transform](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Region%20Detection%20via%20High%20Dimensional%20Color%20Transform%20report.pdf)
+
