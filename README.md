@@ -35,17 +35,32 @@ Report file: [Learning to Detect A Salient Object](https://github.com/m-shahpour
 
 report of **Saliency Segmentation based on Learning and Graph Cut Refinement**
 
-DOI: [doi:10.5244/C.24.110](http://www.bmva.org/bmvc/2010/conference/paper110/index.html)
+DOI: [http://dx.doi.org/10.5244/C.24.110](http://dx.doi.org/10.5244/C.24.110)
 
 Report file: [Saliency Segmentation based on Learning and Graph Cut Refinement](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Saliency%20segmentation%20based%20on%20learning%20and%20graph%20cut%20refinement%20report.pdf)
 
 
 report of **Salient Object Detection: A Discriminative Regional Feature Integration Approach**
 
-DOI: [doi.org/10.1109/CVPR.2013.271](https://doi.org/10.1109/CVPR.2013.271)
+DOI: [https://doi.org/10.1109/CVPR.2013.271](https://doi.org/10.1109/CVPR.2013.271)
 
 Report file: [Salient Object Detection: A Discriminative Regional Feature Integration Approach](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Object%20Detection%20A%20Discriminative%20Regional%20Feature%20Integration%20Approach%20report.pdf)
 
 
+report of **A framework for visual saliency detection with applications to image thumbnailing**
 
+DOI: [https://doi.org/10.1109/ICCV.2009.5459467](https://doi.org/10.1109/ICCV.2009.5459467)
 
+Report file: [A framework for visual saliency detection with applications to image thumbnailing](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/A_framework_for_visual_saliency_detection_with_applications_to_image_thumbnailing_report.pdf)
+
+report of **Image saliency: From intrinsic to extrinsic context**
+
+DOI: [https://doi.org/10.1109/CVPR.2011.5995743](https://doi.org/10.1109/CVPR.2011.5995743)
+
+Report file: [Image saliency: From intrinsic to extrinsic context](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Image_Saliency__From_Intrinsic_to_Extrinsic_Context_report.pdf)
+
+report of **Salient Region Detection via High-Dimensional Color Transform**
+
+DOI: [https://doi.org/10.1109/CVPR.2014.118](https://doi.org/10.1109/CVPR.2014.118)
+
+Report file: [Salient Region Detection via High-Dimensional Color Transform](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Image_Saliency__From_Intrinsic_to_Extrinsic_Context_report.pdf)
