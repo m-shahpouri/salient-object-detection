@@ -77,42 +77,42 @@ report of **A Co-Saliency Model of Image Pairs**
 
 DOI: [https://doi.org/10.1109/TIP.2011.2156803](https://doi.org/10.1109/TIP.2011.2156803)
 
-Report file: [A Co-Saliency Model of Image Pairs](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Region%20Detection%20via%20High%20Dimensional%20Color%20Transform%20report.pdf)
+Report file: [A Co-Saliency Model of Image Pairs](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/A%20Co%20Saliency%20Model%20of%20Image%20Pairs%20report.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 report of **Cluster-Based Co-Saliency Detection**
 
 DOI: [https://doi.org/10.1109/TIP.2013.2260166](https://doi.org/10.1109/TIP.2013.2260166)
 
-Report file: [Cluster-Based Co-Saliency Detection](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Region%20Detection%20via%20High%20Dimensional%20Color%20Transform%20report.pdf)
+Report file: [Cluster-Based Co-Saliency Detection](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Cluster%20Based%20Co%20Saliency%20Detection%20report.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 report of **From co-saliency to co-segmentation: An efficient and fully unsupervised energy minimization model**
 
 DOI: [https://doi.org/10.1109/CVPR.2011.5995415](https://doi.org/10.1109/CVPR.2011.5995415)
 
-Report file: [From co-saliency to co-segmentation: An efficient and fully unsupervised energy minimization model](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Region%20Detection%20via%20High%20Dimensional%20Color%20Transform%20report.pdf)
+Report file: [From co-saliency to co-segmentation: An efficient and fully unsupervised energy minimization model](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/From%20co%20saliency%20to%20co%20segmentation%20An%20efficient%20and%20fully%20unsupervised%20energy%20minimization%20model%20report.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 report of **Looking Beyond the Image: Unsupervised Learning for Object Saliency and Detection**
 
 DOI: [https://doi.org/10.1109/CVPR.2013.416](https://doi.org/10.1109/CVPR.2013.416)
 
-Report file: [Looking Beyond the Image: Unsupervised Learning for Object Saliency and Detection](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Region%20Detection%20via%20High%20Dimensional%20Color%20Transform%20report.pdf)
+Report file: [Looking Beyond the Image: Unsupervised Learning for Object Saliency and Detection](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Looking%20Beyond%20the%20Image%20Unsupervised%20Learning%20for%20Object%20Saliency%20and%20Detection%20report.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 report of **Saliency Aggregation: A Data-Driven Approach**
 
 DOI: [https://doi.org/10.1109/CVPR.2013.150](https://doi.org/10.1109/CVPR.2013.150)
 
-Report file: [Saliency Aggregation: A Data-Driven Approach](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Region%20Detection%20via%20High%20Dimensional%20Color%20Transform%20report.pdf)
+Report file: [Saliency Aggregation: A Data-Driven Approach](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Saliency%20Aggregation%20A%20Data%20driven%20Approach%20report.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 report of **Visual attention detection in video sequences using spatiotemporal cues**
 
 DOI: [https://doi.org/10.1145/1180639.1180824](https://doi.org/10.1145/1180639.1180824)
 
-Report file: [Visual attention detection in video sequences using spatiotemporal cues](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Salient%20Region%20Detection%20via%20High%20Dimensional%20Color%20Transform%20report.pdf)
+Report file: [Visual attention detection in video sequences using spatiotemporal cues](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Visual%20Attention%20Detection%20in%20Video%20Sequences%20Using%20Spatiotemporal%20Cues%20report.pdf)
 
 
 
