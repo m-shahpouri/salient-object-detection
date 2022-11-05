@@ -114,6 +114,23 @@ DOI: [https://doi.org/10.1145/1180639.1180824](https://doi.org/10.1145/1180639.1
 
 Report file: [Visual attention detection in video sequences using spatiotemporal cues](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Visual%20Attention%20Detection%20in%20Video%20Sequences%20Using%20Spatiotemporal%20Cues%20report.pdf)
 
+--------------------------------------------------------------------------------------------------------------------
+report of **Depth really Matters: Improving Visual Salient Region Detection with Depth report**
 
+DOI: [http://dx.doi.org/10.5244/C.27.98](http://dx.doi.org/10.5244/C.27.98)
 
+Report file: [Depth really Matters: Improving Visual Salient Region Detection with Depth report](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Depth%20really%20Matters%20Improving%20Visual%20Salient%20Region%20Detection%20with%20Depth%20report.pdf)
 
+--------------------------------------------------------------------------------------------------------------------
+report of **Leveraging stereopsis for saliency analysis report**
+
+DOI: [https://doi.org/10.1109/CVPR.2012.6247708](https://doi.org/10.1109/CVPR.2012.6247708)
+
+Report file: [Leveraging stereopsis for saliency analysis report](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Leveraging%20stereopsis%20for%20saliency%20analysis%20report.pdf)
+
+--------------------------------------------------------------------------------------------------------------------
+report of **Saliency Detection on Light Field report**
+
+DOI: [https://doi.org/10.1109/CVPR.2014.359](https://doi.org/10.1109/CVPR.2014.359)
+
+Report file: [Saliency Detection on Light Field report](https://github.com/m-shahpouri/salient-object-detection/blob/master/Extrinsic%20cues/Saliency%20Detection%20on%20Light%20Field%20report.pdf)
